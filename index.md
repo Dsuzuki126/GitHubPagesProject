@@ -10,7 +10,7 @@ There are a total of 6 people in my family including me: <br/>
 -my sister <br/>
 -my youngest brother <br/>
 Here is a picture of my family <br/>
-![The Suzuki Family](Family_Photo.jpeg =2032x1024) <br/>
+![The Suzuki Family](Family_Photo.jpeg | width=2032 | height=1024) <br/>
 ### My Interests
 1. Video Games
 2. Eating good desserts
