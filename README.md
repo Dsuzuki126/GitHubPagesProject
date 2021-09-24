@@ -1,1 +1,0 @@
-David Suzuki's User Page
