@@ -17,7 +17,7 @@ Here is a picture of my family <br/>
 3. Doing things with people from the church I go to <br/>
 4. Reading <br/>
 5. Looking at Star Wars memes <br/>
-[Obi-wan Meme](https://i.imgflip.com/1r3fn3.jpg); <br/>
+[Obi-wan Meme](https://i.imgflip.com/1r3fn3.jpg) <br/>
 My all time favorites are the 
 > hello there  
  memes <br/>
@@ -36,5 +36,6 @@ My all time favorites are the
 6. CSE 151A <br/>
 ### Interesting Projects 
 One of the most interesting ones was building a basic processor that uses a custom ISA instruction set in CSE 141L <br/>
-[processor project](ProcessorProject) <br/>
+[processor project](ProcessorProject.jpg) <br/>
+For example, 'ADD R4' would translate to 000000100 in my custom ISA
 
