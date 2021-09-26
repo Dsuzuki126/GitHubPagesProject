@@ -37,5 +37,5 @@ My all time favorites are the
 ### Interesting Projects 
 One of the most interesting ones was building a basic processor that uses a custom ISA instruction set in CSE 141L <br/>
 [processor project](ProcessorProject.jpg) <br/>
-For example, 'ADD R4' would translate to 000000100 in my custom ISA
+For example, `ADD R4` would translate to 000000100 in my custom ISA
 
