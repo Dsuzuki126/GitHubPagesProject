@@ -19,7 +19,7 @@ Here is a picture of my family <br/>
 5. Looking at Star Wars memes <br/>
 [Obi-wan Meme](https://i.imgflip.com/1r3fn3.jpg) <br/>
 My all time favorites are the 
-> hello there  
+> hello there  <
  memes <br/>
 ## My Experience with All Things Technical So Far<br/>
 ### Languages I have Used so far 
